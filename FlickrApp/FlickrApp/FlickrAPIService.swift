@@ -21,4 +21,8 @@ class FlickrAPIService {
             .map(\.items)
             .eraseToAnyPublisher()
     }
+    
 }
+
+
+
